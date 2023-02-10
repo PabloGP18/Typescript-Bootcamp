@@ -1,3 +1,3 @@
 # Typescript-Bootcamp
 
-Just a little exercise to get to know the basics of Typescript
+Just a little exercise about the basics of Typescript
